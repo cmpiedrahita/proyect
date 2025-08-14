@@ -1,1 +1,2 @@
-	1 README with changesCambio del collaborator
+
+README with changes +
