@@ -1,4 +1,4 @@
 
 README with changes +
 
-changes since collaborator
+Change since owner
